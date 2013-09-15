@@ -1,4 +1,4 @@
-bprm
+Bprm (BPR Maker)
 ====
 
 Flash Card Maker. 
